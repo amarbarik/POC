@@ -1,2 +1,2 @@
 # POC
-Java Codes that helped in during the Proof Of Concept
+Sample codes for Proof Of Concept.
